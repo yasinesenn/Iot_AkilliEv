@@ -8,16 +8,16 @@
 //blynk
 #define BLYNK_TEMPLATE_ID "TMPLOKJAmu1y"
 #define BLYNK_DEVICE_NAME "Proje"
-char auth[] = "sU0PpluKYLo9d7W-hnmEiX3HKxjOJHyH";
+char auth[] = "AUTH_KEY";
 #define BLYNK_PRINT Serial 
 
 // Wifi bilgileri
-const char* ssid = "TurkTelekom_TPB29A_2.4GHz";
-const char* password = "NcqcnH7Jp3Ta";
+const char* ssid = "WIFI_NAME";
+const char* password = "WIFI_PASSWORD";
 
 // telegram kurulumu
-#define BOTtoken "5829364664:AAGr8PWcwEjog3oAzL0CathfmjnzTk4gz2w"
-#define CHAT_ID "5946690620"
+#define BOTtoken "BOT_TOKEN"
+#define CHAT_ID "CHAT_ID"
 
 //pin tanimlamalari
 #define gazSensoru A0
