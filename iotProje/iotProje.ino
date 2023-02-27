@@ -6,8 +6,8 @@
 #include <BlynkSimpleEsp8266.h> 
 #include <Arduino.h>
 //blynk
-#define BLYNK_TEMPLATE_ID "TMPLOKJAmu1y"
-#define BLYNK_DEVICE_NAME "Proje"
+#define BLYNK_TEMPLATE_ID "BLYNK_TEMPLATE_ID"
+#define BLYNK_DEVICE_NAME "BLYNK_DEVICE_NAME"
 char auth[] = "AUTH_KEY";
 #define BLYNK_PRINT Serial 
 
